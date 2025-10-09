@@ -1,4 +1,4 @@
-Il repository contiene la documentazione ufficiale sui tracciati relativi alle  entità icar import 2.0
+Il repository contiene la ***documentazione ufficiale sui tracciati*** relativi alle  entità icar import 2.0
 
 - **Complesso archivistico**
 
@@ -11,7 +11,7 @@ Il repository contiene la documentazione ufficiale sui tracciati relativi alle  
 - **Strumento di ricerca**
 
 
-A breve saranno pubblicati anche i tracciati relativi a:
+*A breve saranno pubblicati anche i tracciati relativi a:*
 
 - Contesto storico istituzionale
 
