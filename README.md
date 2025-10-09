@@ -1,45 +1,45 @@
 Il repository contiene la documentazione ufficiale sui tracciati relativi alle  entità icar import 2.0
 
-**Complesso archivistico**
+- **Complesso archivistico**
 
-**Unità archivistica**
+- **Unità archivistica**
 
-**Unità documentaria** (con specializzazioni: fotografia, cartografia, ecc.)
+- **Unità documentaria** (con specializzazioni: fotografia, cartografia, ecc.)
 
-**Agente** (con specializzazioni: **Ente**, **Persona**, **Famiglia**)
+- **Agente** (con specializzazioni: **Ente**, **Persona**, **Famiglia**)
 
-**Strumento di ricerca**
+- **Strumento di ricerca**
 
 
 A breve saranno pubblicati anche i tracciati relativi a:
 
-Contesto storico istituzionale
+- Contesto storico istituzionale
 
-Profilo istituzionale
+- Profilo istituzionale
 
-Progetto (con specializzazioni: digitalizzazione, inventariazione, guida/censimento, ecc.) 
+- Progetto (con specializzazioni: digitalizzazione, inventariazione, guida/censimento, ecc.) 
 
-Fonte normativa
+- Fonte normativa
 
-Riferimento bibliografico
+- Riferimento bibliografico
 
-Fonte archivistica
+- Fonte archivistica
 
-Riferimento Web
+- Riferimento Web
 
-Evento
+- Evento
 
-Tematismo
+- Tematismo
 
-Compilatore 
+- Compilatore 
 
-Antroponimo (Voce d’indice)
+- Antroponimo (Voce d’indice)
 
-Toponimo (Voce d’indice)
+- Toponimo (Voce d’indice)
 
-Ente  (Voce d’indice)
+- Ente  (Voce d’indice)
 
-Soggetto  (Voce d’indice)
+- Soggetto  (Voce d’indice)
 
-Famiglia  (Voce d’indice)
+- Famiglia  (Voce d’indice)
 
