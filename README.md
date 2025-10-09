@@ -1,14 +1,15 @@
 Il repository contiene la documentazione ufficiale sui tracciati relativi alle  entità icar import 2.0
 
-Complesso archivistico
+**Complesso archivistico**
 
-Unità archivistica
+**Unità archivistica**
 
-Unità documentaria (con specializzazioni: fotografia, cartografia, ecc.)
+**Unità documentaria** (con specializzazioni: fotografia, cartografia, ecc.)
 
-Agente (con specializzazioni: Ente, Persona, Famiglia)
+**Agente** (con specializzazioni: **Ente**, **Persona**, **Famiglia**)
 
-Strumento di ricerca
+**Strumento di ricerca**
+
 
 A breve saranno pubblicati anche i tracciati relativi a:
 
