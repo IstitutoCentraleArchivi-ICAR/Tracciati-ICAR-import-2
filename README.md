@@ -4,6 +4,8 @@ Il repository contiene la documentazione ufficiale sui tracciati relativi alle e
 3.	Unità documentaria (con specializzazioni: fotografia, cartografia, ecc.)
 4.	Agente (con specializzazioni: Ente, Persona, Famiglia)
 5.	Strumento di ricerca
+
+A breve saranno pubblicati anche i tracciati relativi a:
 6.	Contesto storico istituzionale
 7.	Profilo istituzionale
 8.	Progetto (con specializzazioni: digitalizzazione, inventariazione, guida/censimento, ecc.) 
