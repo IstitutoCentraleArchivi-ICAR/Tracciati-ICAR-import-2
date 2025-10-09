@@ -6,18 +6,13 @@ Il repository contiene la documentazione ufficiale sui tracciati relativi alle e
 5.	Strumento di ricerca
 
 A breve saranno pubblicati anche i tracciati relativi a:
+
 6.	Contesto storico istituzionale
-
 7.	Profilo istituzionale
-
 8.	Progetto (con specializzazioni: digitalizzazione, inventariazione, guida/censimento, ecc.) 
-
 9.	Fonte normativa
-
 10.	Riferimento bibliografico
-
 11.	Fonte archivistica
-
 12.	Riferimento Web
 
 13.	Evento
