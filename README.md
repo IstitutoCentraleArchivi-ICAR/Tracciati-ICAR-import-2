@@ -13,7 +13,7 @@ Il repository contiene la ***documentazione ufficiale sui tracciati*** relativi 
 - **Contesto storico istituzionale**
 
 - **Profilo istituzionale**
-- 
+  
 
 *A breve saranno pubblicati anche i tracciati relativi a:*
 
