@@ -10,12 +10,13 @@ Il repository contiene la ***documentazione ufficiale sui tracciati*** relativi 
 
 - **Strumento di ricerca**
 
+- **Contesto storico istituzionale**
+
+- **Profilo istituzionale**
+- 
 
 *A breve saranno pubblicati anche i tracciati relativi a:*
 
-- Contesto storico istituzionale
-
-- Profilo istituzionale
 
 - Progetto (con specializzazioni: digitalizzazione, inventariazione, guida/censimento, ecc.) 
 
