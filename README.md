@@ -43,4 +43,6 @@ Il repository contiene la ***documentazione ufficiale sui tracciati*** relativi 
 - Soggetto  (Voce d’indice)
 
 - Famiglia  (Voce d’indice)
+  
+- Schema di impacchettamento dei record (Icar-import 2)
 
